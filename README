@@ -1,0 +1,7 @@
+Installation:
+	npm install
+
+Running the tests:
+	npx playwright test
+
+'npm init playwright@latest' was used as a starting point.
